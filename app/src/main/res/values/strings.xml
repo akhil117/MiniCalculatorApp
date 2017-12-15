@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Goodtry</string>
+    <string name="good_app">Good App!</string>
+    <string name="click_me">Click Me</string>
+
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MUL</string>
+    <string name="div">DIV</string>
+    <string name="title_activity_fifth">fifthActivity</string>
+</resources>
